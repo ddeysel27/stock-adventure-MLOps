@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.egg-info/
+
+# MLflow local artifacts (optional if you log locally)
+mlruns/
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Data logs (optional: keep if you want versioned)
+logged_predictions.csv

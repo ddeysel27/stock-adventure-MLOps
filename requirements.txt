@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mlflow
+pandas
+numpy
+yfinance
+torch
+scikit-learn
+pytest
