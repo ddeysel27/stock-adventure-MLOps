@@ -101,8 +101,6 @@ This project demonstrates:
 - **Automated retraining** with real financial data
 - **Scalable deployment** via Render or Google Cloud Run
 
-Add to your resume/portfolio as:
-> *“Built a stock price forecasting pipeline using LSTM and Yahoo Finance data. Implemented MLOps best practices with MLflow, Docker, GitHub Actions, and FastAPI for scalable deployment and automated retraining.”*
 
 ---
 
